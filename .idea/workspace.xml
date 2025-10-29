@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aec424e8-b3d9-4281-97ac-e50a962f644c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/service/BankService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/service/impl/BankServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Type.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Type.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/BankService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/BankService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/impl/BankServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/impl/BankServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

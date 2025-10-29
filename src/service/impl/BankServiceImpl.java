@@ -1,4 +1,10 @@
 package service.impl;
 
-public class BankServiceImpl {
+import service.BankService;
+
+public class BankServiceImpl implements BankService {
+    @Override
+    public String openAccount(){
+
+    }
 }
